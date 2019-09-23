@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: blueviolet;
 }
 
 .App-logo {
@@ -42,4 +43,16 @@
 .activeCard {
   color: red;
   background: pink;
+ }
+ .Head {
+  text-align: center;
+  background: blue;
+ }
+ h1 {
+  text-align: center;
+   font-size: 80px;
+   color: blue;
+ }
+ h2 {
+  text-align: center;
  }
