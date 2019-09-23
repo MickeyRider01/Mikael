@@ -13,18 +13,6 @@ body {
   margin: 1em;
   user-select: none;
  }
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
 .activeCard {
   color: red;
   background: pink;
