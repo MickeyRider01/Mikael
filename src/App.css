@@ -1,28 +1,13 @@
-.App {
+body {
   text-align: center;
   background-color: blueviolet;
-}
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 .card {
   display: inline-block;
   text-align: center;
   width: 3em;
+  color: White;
+  background-color:black;
   font-size: 2em;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   margin: 1em;
@@ -46,7 +31,8 @@
  }
  .Head {
   text-align: center;
-  background: blue;
+  background-color:whitesmoke;
+  padding: 40px;
  }
  h1 {
   text-align: center;

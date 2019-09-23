@@ -48,6 +48,7 @@ export default class WordCard extends
         console.log(this.state);
         return (
             <div>
+
                 {this.state.chars.map((c, i) => <CharacterCard value={c} key={i} attempt={this.state.attempt}
                     activationHandler={this.activationHandler} />)}
             </div>
